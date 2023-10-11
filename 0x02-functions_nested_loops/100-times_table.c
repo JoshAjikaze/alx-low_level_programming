@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 void greater_than_100(int output, int b, int n);
 void ten_to_99(int output, int b, int n);
