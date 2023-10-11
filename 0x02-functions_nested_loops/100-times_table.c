@@ -68,7 +68,7 @@ void greater_than_100(int output, int b, int n)
 		_putchar('\n');
 }
 
-#include "holberton.h"
+#include "main.h"
 /**
  * ten_to_99 - outputs double digits
  * @output: The number
