@@ -4,7 +4,8 @@
 
 /**
  * rev_string - Reverses a string
- * @s: Pointer to the string */
+ * @s: Pointer to the string 
+ * */
 void rev_string(char *s)
 {
 	int len = strlen(s);
